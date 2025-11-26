@@ -6,3 +6,8 @@ El control de versiones permite:
 - Que el proyecto cuente con una trazabilidad completa.
 - Revertir con facilidad errores y recuperar versiones anteriores.
 - Depurar errores de forma eficiente
+
+Adcionalmente el control de versiones:
+- Facilita la integracion continua
+- Garantiza seguridad e integridad 
+- Proporciona Trazabilidad
